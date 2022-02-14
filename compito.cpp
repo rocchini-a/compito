@@ -8,7 +8,7 @@ void main(){
 
 for(int  i=0; i< 10; i++){
 
-	cout<< i+2 ;
+	cout<< i+1 ;
 	i++,
 
 }
